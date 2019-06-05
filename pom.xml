@@ -35,7 +35,6 @@
 						<hotfixBranchPrefix>hotfix-</hotfixBranchPrefix>
 					</flowInitContext>
 					<noDeploy>true</noDeploy>
-					<squash>true</squash>
 					<scmCommentPrefix>[RELEASE] </scmCommentPrefix>
 				</configuration>
 			</plugin>
