@@ -33,6 +33,7 @@
 						<featureBranchPrefix>feature-</featureBranchPrefix>
 						<releaseBranchPrefix>release-</releaseBranchPrefix>
 						<hotfixBranchPrefix>hotfix-</hotfixBranchPrefix>
+						<versionTagPrefix>version-</versionTagPrefix>
 					</flowInitContext>
 					<noDeploy>true</noDeploy>
 					<pushFeatures>true</pushFeatures>
