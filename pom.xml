@@ -35,8 +35,6 @@
 						<hotfixBranchPrefix>hotfix-</hotfixBranchPrefix>
 						<versionTagPrefix>version-</versionTagPrefix>
 					</flowInitContext>
-					<username>mfcello85</username>
-					<password>Cellofello_85</password>
 					<noDeploy>true</noDeploy>
 					<squash>true</squash>
 					<scmCommentPrefix>[RELEASE] </scmCommentPrefix>
